@@ -1,0 +1,34 @@
+
+url https://eyaskin23.github.io/ds4200/
+
+- typography & layout:
+        custom font Times New Roman 
+        layout is set to center align using flex
+
+- background & spacing:
+    body has a light background color of light grey.
+
+
+- navigation bar:
+    - navigation bar is styled with a light pink background color,
+    and has centered txt for visibility.
+
+- think black borders
+    - added around the navigation bar and other main blocks 
+    for a defined look
+
+- main content:
+    all the main content has a subtle box shadow adding depth
+
+- image customziations:
+    - standard images have 300px width and rounded edges
+    - large images have a separate class to accomodate for 
+    their larger size
+    - all images have a thin black border too
+
+- footers:
+    footers all have a thin black border and padding to separate it
+    from the main content
+    - text is also made smaller (0.83em) with a subtle gray color
+    for constrast
+
